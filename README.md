@@ -5,7 +5,7 @@ A customizable SwiftUI StarView component for displaying and updating star ratin
 ![sample](https://github.com/user-attachments/assets/bb4c0135-971d-4dab-8ebc-eda6a24bb2eb)
 
 # Usage
-'''Swift
+'''swift
 StarView($rating)
 '''
 You can cusomize the component by changing the following parameters:
